@@ -1,0 +1,27 @@
+// Original message uses YAML format.
+// message.key = b"terminate"
+// message.value =
+{
+    "isAutomaticInvocation": false,
+    "operationState": "PROCESSING",
+    "statusEnteredTime": 1543422432.906854,
+    "startTime": 1543422432.906854,
+    "nsInstanceId": "c19a1f29-4445-45e4-9700-496501876237",
+    "_admin": {
+        "created": 1543422432.9069362,
+        "modified": 1543422432.9069362
+    },
+    "id": "a372fc98-fffe-4c33-9b16-ed528fb38844",
+    "lcmOperationType": "terminate",
+    "operationParams": {
+        "autoremove": true,
+        "nsInstanceId": "c19a1f29-4445-45e4-9700-496501876237",
+        "_id": "a372fc98-fffe-4c33-9b16-ed528fb38844"
+    },
+    "isCancelPending": false,
+    "links": {
+        "nsInstance": "/osm/nslcm/v1/ns_instances/c19a1f29-4445-45e4-9700-496501876237",
+        "self": "/osm/nslcm/v1/ns_lcm_op_occs/a372fc98-fffe-4c33-9b16-ed528fb38844"
+    },
+    "_id": "a372fc98-fffe-4c33-9b16-ed528fb38844"
+}

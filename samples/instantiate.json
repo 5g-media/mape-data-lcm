@@ -1,0 +1,31 @@
+// Original message uses YAML format.
+// message.key = b"instantiate"
+// message.value =
+{
+    "isCancelPending": false,
+    "_admin": {
+        "modified": 1543397283.376444,
+        "created": 1543397283.376444
+    },
+    "id": "200f3135-50ef-4436-9b89-c67b7b088168",
+    "links": {
+        "nsInstance": "/osm/nslcm/v1/ns_instances/93e7e837-8a5f-4382-ad2e-bd71e11481c5",
+        "self": "/osm/nslcm/v1/ns_lcm_op_occs/200f3135-50ef-4436-9b89-c67b7b088168"
+    },
+    "statusEnteredTime": 1543397283.3763802,
+    "operationParams": {
+        "nsName": "takis0001",
+        "vimAccountId": "41dab0c0-35f4-4c40-b1cd-13e4a79dab48",
+        "nsInstanceId": "93e7e837-8a5f-4382-ad2e-bd71e11481c5", // NS uuid
+        "nsdId": "d5c99561-ec46-4480-8377-b5b218b8b1e5",
+        "nsr_id": "93e7e837-8a5f-4382-ad2e-bd71e11481c5", // NS uuid
+        "_id": "200f3135-50ef-4436-9b89-c67b7b088168",
+        "nsDescription": "takis0001"
+    },
+    "nsInstanceId": "93e7e837-8a5f-4382-ad2e-bd71e11481c5",
+    "isAutomaticInvocation": "False",
+    "startTime": 1543397283.3763802,
+    "lcmOperationType": "instantiate",
+    "_id": "200f3135-50ef-4436-9b89-c67b7b088168",
+    "operationState": "PROCESSING"
+}

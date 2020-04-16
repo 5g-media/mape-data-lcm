@@ -1,0 +1,4 @@
+// Original message uses YAML format.
+// message.key = b"instantiated"
+// message.value =
+{'nslcmop_id': 'a11bfb7b-65cc-46e5-8c09-0eb292c0c5de', 'nsr_id': 'c19a1f29-4445-45e4-9700-496501876237', 'operationState': 'COMPLETED'}

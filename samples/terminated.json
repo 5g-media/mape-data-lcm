@@ -1,0 +1,8 @@
+// Original message uses YAML format.
+// message.key = b"terminated"
+// message.value =
+{
+    "nslcmop_id": "a372fc98-fffe-4c33-9b16-ed528fb38844",
+    "operationState": "COMPLETED",
+    "nsr_id": "c19a1f29-4445-45e4-9700-496501876237"
+}
