@@ -54,7 +54,7 @@ $ sudo docker run -p 8882:3333 --name data_lcm --restart always \
 
 Access the docker container:
 ```bash
-$ sudo docker exec -it ns_manager bash
+$ sudo docker exec -it data_lcm bash
 ```
 
 Start the NS manager service through the supervisor:
